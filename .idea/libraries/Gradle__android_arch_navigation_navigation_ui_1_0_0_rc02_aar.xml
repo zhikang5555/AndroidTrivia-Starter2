@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.navigation:navigation-ui:1.0.0-rc02@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-rc02.aar/109307efc7b51ac710707eb8020dfffe/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-rc02.aar/109307efc7b51ac710707eb8020dfffe/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-rc02.aar/c3b0b2798470c2b270f487c2559741cc/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-rc02.aar/c3b0b2798470c2b270f487c2559741cc/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.navigation/navigation-ui/1.0.0-rc02/af0365becbd715514f25876708c920033b4cdbc8/navigation-ui-1.0.0-rc02-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/android.arch.navigation/navigation-ui/1.0.0-rc02/af0365becbd715514f25876708c920033b4cdbc8/navigation-ui-1.0.0-rc02-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
